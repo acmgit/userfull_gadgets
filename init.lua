@@ -31,8 +31,8 @@ userfull_gadgets.none = 99
 
 dofile(userfull_gadgets.modpath .. "/settings.lua")
 dofile(userfull_gadgets.modpath .. "/functions.lua")
-dofile(userfull_gadgets.modpath .. "/register_nodes.lua")       
-dofile(userfull_gadgets.modpath .. "/recipes.lua")
+dofile(userfull_gadgets.modpath .. "/vacuum_cleaner.lua")       
+dofile(userfull_gadgets.modpath .. "/magnifier_glass.lua")
 
-print("[MOD]" .. userfull_gadgets.modname .. " Version " .. userfull_gadgets.vers .. " successfully loaded.")
+--print("[MOD]" .. userfull_gadgets.modname .. " Version " .. userfull_gadgets.vers .. " successfully loaded.")
 minetest.log("[MOD]" .. userfull_gadgets.modname .. " Version " .. userfull_gadgets.vers .. " successfully loaded.")

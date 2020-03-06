@@ -1,7 +1,7 @@
 # textdomain: userfull_gadgets
 
 
-### functions.lua ###
+### magnifier_glass.lua ###
 
  Items / Stack.=
  Points Damage per Second.=
@@ -19,6 +19,7 @@ Light on the Node: =
 Light shines trough.=
 Light under: =
 Located at: =
+Magnifying Glass=
 Name of the Node: = 
 Node unknown!=
 Pointed on no Node.=
@@ -26,7 +27,6 @@ Shines with Lightlevel =
 Stacks with =
 With a transparency of = 
 
-### register_nodes.lua ###
+### vacuum_cleaner.lua ###
 
-Magnifying Glass=
 Vacuum Cleaner=

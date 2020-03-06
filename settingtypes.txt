@@ -2,3 +2,13 @@
 # default = 8
 # set's the Radius of the vacuum_cleaner
 userfull_gadgets.settings.vacuum_range (Radius) int 8
+
+#vacuum_cleaner
+# default = true
+# Turns the Vaccuum Cleaner on or off
+userfull_gadgets.settings.vacuum_cleaner (Turn on or off) bool true
+
+#magnifier
+# default = true
+# Turns the Magnifier on or off
+userfull_gadgets.settings.magnifier (Turn on or off) bool true

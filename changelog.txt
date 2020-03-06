@@ -1,0 +1,3 @@
+Splitted code into the tools.
+Added settingtypes to configure.
+Updated locale.
