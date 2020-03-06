@@ -1,4 +1,4 @@
-# userfull_gadgets
+# Use(r)full Gadgets
 
 Use(r)full Gadgets is a mod for Minetest, with some usefull tools.
 
