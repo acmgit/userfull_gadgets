@@ -1,0 +1,4 @@
+#vacuum_range
+# default = 8
+# set's the Radius of the vacuum_cleaner
+userfull_gadgets.settings.vacuum_range (Radius) int 8

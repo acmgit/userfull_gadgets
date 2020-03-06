@@ -1,0 +1,32 @@
+# textdomain: userfull_gadgets
+
+
+### functions.lua ###
+
+ Items / Stack.=
+ Points Damage per Second.=
+Deals with =
+Has an alpha-channel.=
+Is climbable.=
+Is diggable.=
+Is protected: No.=
+Is protected? Yes.=
+Is regenerateable.=
+Is replaceable.=
+Is walkable.=
+Light above: =
+Light on the Node: =
+Light shines trough.=
+Light under: =
+Located at: =
+Name of the Node: = 
+Node unknown!=
+Pointed on no Node.=
+Shines with Lightlevel =
+Stacks with =
+With a transparency of = 
+
+### register_nodes.lua ###
+
+Magnifying Glass=
+Vacuum Cleaner=
